@@ -25,7 +25,7 @@
 
 ### 2FA-SolverのWebページ
 
-[2FA Solver](#)
+[2FA Solver](https://bousai.jf6deu.net/2fa.html)
 
 > ![image](https://user-images.githubusercontent.com/83505381/146655188-d981fdfd-2d93-4b1e-814f-7f036917708a.png)
 > ![image](https://user-images.githubusercontent.com/83505381/146655222-f185a1cb-fd1e-433b-a7e6-34511aae2df9.png)
